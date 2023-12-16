@@ -75,7 +75,7 @@ th {
 
 @media screen and (max-width: 460px) {
     table {
-        font-size: 0.3rem;
+        font-size: 0.35rem;
     }
 
     th, td {
