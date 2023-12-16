@@ -106,7 +106,7 @@ h4 {
     font-size: 0.75rem;
 }
 
-#full-width-image {
+.full-width-image {
     width: 100%;
     height: auto;
     display: block;
