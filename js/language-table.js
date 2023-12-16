@@ -82,6 +82,6 @@ document.currentScript.parentNode.insertBefore(tableWrapper, document.currentScr
 let profileStylesheet = document.createElement("link");
 profileStylesheet.rel = "stylesheet";
 profileStylesheet.type = "text/css";
-profileStylesheet.href = "../css/language-table.css";
+profileStylesheet.href = "./css/language-table.css";
 
 document.head.append(profileStylesheet);
