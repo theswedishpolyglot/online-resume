@@ -88,4 +88,3 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 // wkhtmltopdf --debug-javascript --enable-local-file-access "/c/Users/willi/Desktop/projects/online-resume/index.html" "/c/Users/willi/Desktop/projects/online-resume/output.pdf"
-// Debug CSS now?
